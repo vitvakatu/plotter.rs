@@ -1,0 +1,6 @@
+[package]
+name = "plotter"
+version = "0.1.0"
+authors = ["Ilya Bogdanov <fumlead@gmail.com>"]
+
+[dependencies]
